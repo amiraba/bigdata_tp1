@@ -42,6 +42,7 @@ spécifié sur le dépot.
 On a pu identifier grâce à ce TP les intervenants du paradigme MapReduce et comment ils fonctionnent
 en collaboration avec les fonctions de sort et de shuffle. En effet, on a pu implémenter différents
 mappers et reducers selon la demande afin de générer de la “connaissance” et de l’aide à la décision à
-partir de ces grands volumes de données. Bien que cette génération s’effectue de manière relativement
+partir de ces grands volumes de données.
+Bien que cette génération s’effectue de manière relativement
 lente à cause de la manipulation d’une seule machine au lieu d’un système distribué, le recours à
 Hadoop permet d’offrir cette information en un clin d’oeil.
